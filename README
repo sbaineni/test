@@ -1,2 +1,6 @@
 this is git test
+<<<<<<< HEAD
 Added another file in cm
+=======
+Added another file
+>>>>>>> ea386ef97dbf769337f22cbcea83a6e6c237d9aa
